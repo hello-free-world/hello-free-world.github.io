@@ -6,8 +6,8 @@ title: 从动员到管理：六四的结构性转折意义
 **日期:** 2025年12月15日  
 **作者:** 平行政界    
 **机构:** 独立研究者    
-**Email:** <hello.the.free.world@gmail.com>  
-**DOI:** <https://doi.org/10.5281/zenodo.17958866>
+**Email:** [hello.the.free.world@gmail.com](hello.the.free.world@gmail.com)  
+**DOI:** [10.5281/zenodo.17958866](https://doi.org/10.5281/zenodo.17958866)
 
 **关键词:** 治理范式、运动治国、社会组织能力、去组织化、政治精英的风险认知、国家与社会博弈、民主化的结构性限制
 

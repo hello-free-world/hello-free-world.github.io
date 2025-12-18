@@ -7,8 +7,8 @@ title: 'From Mobilization to Management: The 1989 Tiananmen Crisis as a Structur
 **Date:** December 15, 2025  
 **Author:** Ping Political  
 **Affiliation:** Independent Researcher  
-**Email:** <hello.the.free.world@gmail.com>  
-**DOI:** <https://doi.org/10.5281/zenodo.17958866>
+**Email:** [hello.the.free.world@gmail.com](hello.the.free.world@gmail.com)  
+**DOI:** [10.5281/zenodo.17958866](https://doi.org/10.5281/zenodo.17958866)
 
 **Keywords:** Governance Paradigms, Movement-Based Governance, Social Organizational Capacity, De-organizationalization, Risk Perception of Political Elites, State-Society Bargaining, Structural Limits of Democratization
 # Abstract
@@ -24,7 +24,7 @@ This study seeks to situate the 1989 Tiananmen crisis within a much longer traje
 
 - **What does the 1989 Tiananmen crisis truly signify in the history of China’s political development?** It is often described as a “failed democratic movement” or an episode of “authoritarian consolidation”, but from the perspective of governance paradigms, it may more accurately be understood as the final endpoint at which the CCP terminated its own historical logic of “movement-based governance”. If the Cultural Revolution created the social-organizational capacities and the deep structural antagonism between officials and citizens, then Tiananmen functioned to eliminate horizontal organization entirely, thereby closing the structural possibility for democracy in China.[3][4][5]
 
-This study therefore proposes a new explanatory chain: th**e legacy of movement-based governance → social organizational capacity → the state-society bargaining structure of the 1980s → Tiananmen as the termination of a governance paradigm → the structural impossibility of democracy**. Through this framework, we gain a new understanding of the historical significance of 1989 and a new analytical perspective for explaining the long-term trajectory of Chinese politics thereafter.
+This study therefore proposes a new explanatory chain: the **legacy of movement-based governance → social organizational capacity → the state-society bargaining structure of the 1980s → Tiananmen as the termination of a governance paradigm → the structural impossibility of democracy**. Through this framework, we gain a new understanding of the historical significance of 1989 and a new analytical perspective for explaining the long-term trajectory of Chinese politics thereafter.
 ## 1.2 Core Argument
 This article argues that the 1989 Tiananmen crisis cannot be understood simply as the failure of a democratization attempt, but should instead be positioned as the final and decisive strategic choice made by the CCP to terminate its long-standing model of “movement-based governance”, a choice shaped by the risk preferences formed through the traumatic experience of the Cultural Revolution.[3][4][5] The Cultural Revolution not only created political experiences in which the masses were empowered and the bureaucracy was attacked, but also left behind within society a high level of organizational capacity. This legacy was reactivated in the early reform era, generating a distinctive structure of state-society contention. The outbreak of the Tiananmen crisis led the top leadership to redefine this structure as a form of systemic danger—one that was no longer controllable—thereby prompting Deng Xiaoping and the bureaucratic coalition he represented to dismantle completely the organizational foundations of movement-based governance.
 
