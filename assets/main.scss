@@ -1,0 +1,10 @@
+---
+---
+@import "minima";
+
+.site-header {
+  background-image: url('{{ "/assets/banner.jpg" | relative_url }}');
+  background-size: cover;
+  background-position: center;
+  min-height: 200px; // 根据需要调整高度
+}
