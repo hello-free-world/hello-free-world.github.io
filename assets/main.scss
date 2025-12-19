@@ -8,3 +8,32 @@
   background-position: center;
   min-height: 200px; // 根据需要调整高度
 }
+
+/* 1. 修改左侧网站标题颜色 */
+.site-title {
+  &, &:visited {
+    color: #ffffff; // 替换为你想要的颜色值
+	font-weight: bold;
+  }
+  &:hover {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.8); // 悬停时的颜色
+  }
+}
+
+/* 2. 修改右侧导航菜单链接颜色 */
+.site-nav {
+  .page-link {
+    color: #ffffff; // 替换为你想要的颜色值
+	font-weight: bold;
+    
+    &:hover {
+      color: rgba(255, 255, 255, 0.8);
+    }
+  }
+}
+
+/* 3. 修改汉堡菜单（移动端显示）的颜色 */
+.site-nav .menu-icon > svg {
+  fill: #ffffff;
+}
