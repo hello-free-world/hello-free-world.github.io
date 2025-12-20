@@ -33,7 +33,15 @@
   }
 }
 
-/* 3. 修改汉堡菜单（移动端显示）的颜色 */
-.site-nav .menu-icon > svg {
-  fill: #ffffff;
+/* 1. 基础样式（通常作为手机端/移动优先模式） */
+.site-nav .page-link {
+    color: #000000 !important;
+    text-decoration: none;
+}
+
+/* 2. 媒体查询：当屏幕宽度大于 601px 时（电脑模式） */
+@media (min-width: 600px) {
+    .site-nav .page-link {
+        color: #ffffff !important;
+    }
 }
