@@ -1,4 +1,7 @@
 ---
+category: fiction
+title_en: Fiction
+title_zh: 漫剧
 layout: page
 permalink: "/fiction/"
 ---

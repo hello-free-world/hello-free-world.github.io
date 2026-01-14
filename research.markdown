@@ -1,4 +1,7 @@
 ---
+category: research
+title_en: Research
+title_zh: 论文
 layout: page
 permalink: "/research/"
 ---

@@ -21,7 +21,8 @@ layout: default
         {%- for post in site.posts -%}
         <li>
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }} | <a href="/{{ post.category }}/">{{ post.category }}<a></span>
+		  {%- assign category = site.pages | where: "category", post.category | first -%}
+          <span class="post-meta">{{ post.date | date: date_format }} | <a href="{{ category.url | relative_url }}">{{ category.title_en | escape }}<a></span>
           <h3>
             <a class="post-link" href="{{ post.url | relative_url }}">
               {%- if post.title_en -%}
@@ -50,7 +51,8 @@ layout: default
         {%- for post in site.posts -%}
         <li>
           {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
-          <span class="post-meta">{{ post.date | date: date_format }} | <a href="/{{ post.category }}/#lang=zh">{{ post.category }}<a></span>
+		  {%- assign category = site.pages | where: "category", post.category | first -%}
+          <span class="post-meta">{{ post.date | date: date_format }} | <a href="{{ category.url | relative_url }}#lang=zh">{{ category.title_zh | escape }}<a></span>
           <h3>
             <a class="post-link" href="{{ post.url | relative_url }}#lang=zh">
               {%- if post.title_zh -%}

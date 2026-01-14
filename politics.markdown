@@ -1,4 +1,7 @@
 ---
+category: politics
+title_en: Politics
+title_zh: 政论
 layout: page
 permalink: "/politics/"
 ---
