@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    <style>
+		.lang-btn {
+		}
+		.lang-btn.active {
+			pointer-events: none;
+		}
+
+		.lang-content {
+			display: none;
+		}
+		.lang-content.active {
+			display: block;
+		}
+    </style>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+	<script>
+
+		function switchLang(langId) {
+			history.replaceState(null, '', '#lang=' + langId);
+			updatePageByHash();
+		}
+
+		function updatePageByHash() {
+			const lang = window.location.hash.replace('#lang=', '') || 'en';
+			document.querySelectorAll('.lang-btn').forEach(tab => {
+				const isMatch = tab.getAttribute('onclick')?.includes(lang);
+				tab.classList.toggle('active', isMatch);
+			});
+			document.querySelectorAll('.lang-content').forEach(sec => {
+				sec.classList.toggle('active', sec.id === lang);
+			});
+		}
+
+		//window.addEventListener('load', updatePageByHash);
+		updatePageByHash();
+
+	</script>
+
+  </body>
+
+</html>

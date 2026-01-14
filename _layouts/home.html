@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <div class="lang-content" id="en">
+      <h2 class="post-list-heading">
+        All
+		| <a href="/fiction/">Fiction</a>
+		| <a href="/politics/">Politics</a>
+		| <a href="/research/">Research</a>
+	  </h2>
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }} | <a href="/{{ post.category }}/">{{ post.category }}<a></span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {%- if post.title_en -%}
+                {{ post.title_en | escape }}
+              {%- else -%}
+                {{ post.title | escape }}
+              {%- endif -%}
+            </a>
+          </h3>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+        {%- endfor -%}
+      </ul>
+	</div>
+
+    <div class="lang-content" id="zh">
+      <h2 class="post-list-heading">
+		全部
+		| <a href="/fiction/#lang=zh">漫剧</a>
+		| <a href="/politics/#lang=zh">政论</a>
+		| <a href="/research/#lang=zh">论文</a>
+	  </h2>
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d" -%}
+          <span class="post-meta">{{ post.date | date: date_format }} | <a href="/{{ post.category }}/#lang=zh">{{ post.category }}<a></span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}#lang=zh">
+              {%- if post.title_zh -%}
+                {{ post.title_zh | escape }}
+              {%- else -%}
+                {{ post.title | escape }}
+              {%- endif -%}
+            </a>
+          </h3>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+        {%- endfor -%}
+      </ul>
+	</div>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>

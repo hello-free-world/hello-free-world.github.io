@@ -1,0 +1,40 @@
+---
+---
+@import "minima";
+
+.site-header {
+  background-image: url('{{ "/assets/banner.jpg" | relative_url }}');
+  background-size: cover;
+  background-position: center;
+  min-height: 200px; // 根据需要调整高度
+}
+
+/* 1. 修改左侧网站标题颜色 */
+.site-title {
+  &, &:visited {
+    color: #ffffff; // 替换为你想要的颜色值
+	font-weight: bold;
+  }
+  &:hover {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.8); // 悬停时的颜色
+  }
+}
+
+/* 1. 基础样式（通常作为手机端/移动优先模式） */
+.site-nav .page-link {
+    color: #000000 !important;
+    text-decoration: none;
+}
+
+/* 2. 媒体查询：当屏幕宽度大于 601px 时（电脑模式） */
+@media (min-width: 600px) {
+    .site-nav .page-link {
+		color: #ffffff !important;
+		text-shadow: 
+			-1px -1px 0 #000,  
+			 1px -1px 0 #000,
+			-1px  1px 0 #000,
+			 1px  1px 0 #000; /* 四个方向的 1px 黑色阴影 */
+    }
+}
