@@ -46,6 +46,10 @@
 			document.querySelectorAll('.lang-content').forEach(sec => {
 				sec.classList.toggle('active', sec.id === lang);
 			});
+			if (lang == "zh")
+				document.title = "{{ site.title_zh }} | {{ site.description_zh }}";
+			else
+				document.title = "{{ site.title }} | {{ site.description }}";
 		}
 
 		//window.addEventListener('load', updatePageByHash);

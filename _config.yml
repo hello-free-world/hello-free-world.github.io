@@ -1,10 +1,13 @@
 title: Ping Political
+title_zh: 平行政界
 email: hello.the.free.world@gmail.com
-description: The official homepage of Ping Political.
+description: The official homepage of Ping Political
+description_zh: 平行政界官方主页
 baseurl: ''
 url: ''
+youtube_username: PingPolitical
 twitter_username: PingPolitical
-github_username: hello-free-world
+#github_username: hello-free-world
 theme: minima
 plugins:
   - jekyll-feed
