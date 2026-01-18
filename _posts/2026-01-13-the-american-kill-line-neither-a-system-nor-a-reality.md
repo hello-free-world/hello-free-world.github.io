@@ -1,6 +1,6 @@
 ---
-title: 'The American Kill Line: Neither a System Nor a Reality'
-title_zh: '美国斩杀线：既不是制度，也不是现实'
+title: 美国斩杀线：既不是制度，也不是现实
+title_en: 'The American Kill Line: Neither a System Nor a Reality'
 category: politics
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Youth and the Truth about the Cultural Revolution
-title_zh: 芳华与文革真相
+title: 芳华与文革真相
+title_en: Youth and the Truth about the Cultural Revolution
 category: politics
 ---
 

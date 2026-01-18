@@ -1,15 +1,15 @@
 ---
-title: Dream Back to 1989 (24 Videos)
-title_zh: 梦回8964 (24个视频)
+title: 梦回8964 (24个视频)
+title_en: Dream Back to 1989 (24 Videos)
 category: fiction
 ---
 
-<div id="en" class="lang-content">
-The story begins with an unexpected time travel back to Tiananmen Square in 1989, possessing the body of a student movement leader. Facing the looming storm—will you rise against the tide, rewrite history, and lead China toward a new democratic era? Or will you ultimately fall, becoming a sacrificed prisoner? The choice of destiny begins now.
-</div>
-
 <div id="zh" class="lang-content">
 开局竟穿越回1989年的天安门广场，附身学运领袖。面对即将到来的风暴，是力挽狂澜，改写历史的走向，带领中国走向民主的新纪元？还是终将走向失败，沦为“踩缝纫机”的牺牲者？命运的抉择，从这一刻开始。
+</div>
+
+<div id="en" class="lang-content">
+The story begins with an unexpected time travel back to Tiananmen Square in 1989, possessing the body of a student movement leader. Facing the looming storm—will you rise against the tide, rewrite history, and lead China toward a new democratic era? Or will you ultimately fall, becoming a sacrificed prisoner? The choice of destiny begins now.
 </div>
 
 <p></p>

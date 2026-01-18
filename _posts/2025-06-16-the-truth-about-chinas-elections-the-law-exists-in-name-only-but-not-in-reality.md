@@ -1,7 +1,7 @@
 ---
-title: 'The Truth about China’s Elections: the Law Exists in Name Only, But Not in
-  Reality'
-title_zh: '中国选举的真相——法有其名，实无其权'
+title: 中国选举的真相——法有其名，实无其权
+title_en: 'The Truth about China’s Elections: the Law Exists in Name Only, But Not
+  in Reality'
 category: politics
 ---
 
