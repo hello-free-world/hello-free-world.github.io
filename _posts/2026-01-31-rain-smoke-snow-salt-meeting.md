@@ -4,7 +4,7 @@ title_en: Su Xiaokang New Book "Rain, Smoke, Snow, Salt" Book Launch & Lecture
 category: politics
 ---
 
-{% include youtube.html id="1KEpCZk4bSc" width="720" height="405" %}
+{% include youtube.html id="LZUWiaEm2G0" width="720" height="405" %}
 
 <p></p>
 
