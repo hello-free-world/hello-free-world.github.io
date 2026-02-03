@@ -4,21 +4,19 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">
-	  <span class="lang-content" id="en">
-	    {%- if page.title_en -%}
-		  {{ page.title_en | escape }}
-	    {%- else -%}
-	      {{ page.title | escape }}
-	    {%- endif -%}
-	  </span>
-	  <span class="lang-content" id="zh">
-	    {%- if page.title_zh -%}
-		  {{ page.title_zh | escape }}
-	    {%- else -%}
-	      {{ page.title | escape }}
-	    {%- endif -%}
-	  </span>
+    <h1 class="post-title p-name lang-content" id="en" itemprop="name headline">
+	  {%- if page.title_en -%}
+		{{ page.title_en | escape }}
+	  {%- else -%}
+	    {{ page.title | escape }}
+	  {%- endif -%}
+	</h1>
+    <h1 class="post-title p-name lang-content" id="zh" itemprop="name headline">
+	  {%- if page.title_zh -%}
+	    {{ page.title_zh | escape }}
+	  {%- else -%}
+	    {{ page.title | escape }}
+	  {%- endif -%}
 	</h1>
     <p class="post-meta">
       <time class="dt-published lang-content" id="en" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">

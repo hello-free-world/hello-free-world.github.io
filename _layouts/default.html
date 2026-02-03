@@ -39,20 +39,25 @@
 
 		function updatePageByHash() {
 			const lang = window.location.hash.replace('#lang=', '') || 'en';
+			if (lang == "zh")
+				document.title = "{{ site.title_zh }} | {{ site.description_zh }}";
+			else
+				document.title = "{{ site.title }} | {{ site.description }}";
 			document.querySelectorAll('.lang-btn').forEach(tab => {
 				const isMatch = tab.getAttribute('onclick')?.includes(lang);
 				tab.classList.toggle('active', isMatch);
 			});
 			document.querySelectorAll('.lang-content').forEach(sec => {
 				sec.classList.toggle('active', sec.id === lang);
+				if (sec.id === lang && sec.classList.contains('post-title')) {
+					if (lang == "zh")
+						document.title = "{{ site.title_zh }} | " + sec.innerText;
+					else
+						document.title = "{{ site.title }} | " + sec.innerText;
+				}
 			});
-			if (lang == "zh")
-				document.title = "{{ site.title_zh }} | {{ site.description_zh }}";
-			else
-				document.title = "{{ site.title }} | {{ site.description }}";
 		}
 
-		//window.addEventListener('load', updatePageByHash);
 		updatePageByHash();
 
 	</script>
