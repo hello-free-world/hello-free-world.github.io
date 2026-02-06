@@ -10,8 +10,8 @@ category: research
 <strong>Date:</strong> January 9, 2026<br />
 <strong>Author:</strong> Ping Political<br />
 <strong>Affiliation:</strong> Independent Researcher<br />
-<strong>Email:</strong> <a href="https://hello-the-world.com/2025/12/15/hello.the.free.world@gmail.com">hello.the.free.world@gmail.com</a><br />
-<strong>DOI:</strong>  <a href="https://doi.org/10.5281/zenodo.18205295">10.5281/zenodo.18205295</a></p>
+<strong>Email:</strong> <a href="mailto:hello.the.free.world@gmail.com">hello.the.free.world@gmail.com</a><br />
+<strong>DOI:</strong>  <a target="_blank" href="https://dx.doi.org/10.2139/ssrn.6054054">10.2139/ssrn.6054054</a></p>
 <p><strong>Keywords:</strong> Deng Xiaoping Reform, Authoritarian Transformation, Mobilization–Development–Control Model, Post-1989 Political Reconfiguration, Authoritarian Sustainability, Technocratic Governance, Risk Management State, Depoliticization, Control-Oriented Stability, Legalist Rationality (Shang Yang)</p>
 <h1 id="abstract"><strong>Abstract</strong></h1>
 <p>This article introduces <em>“Deng Xiaoping’s institutional transformation”</em> as a core analytical concept and proposes a three-stage model of authoritarian governance—<strong>mobilization, development, and control</strong>—to reinterpret the structural evolution of the Chinese Communist Party’s ruling logic since the founding of the People’s Republic of China. It argues that the CCP did not experiment with fundamentally different political models across historical periods; rather, under changing conditions, it consistently sought to avoid the same outcome: the genuine transfer of political power to the people.</p>
@@ -308,8 +308,8 @@ category: research
 <strong>日期:</strong> 2026-01-09<br />
 <strong>作者:</strong> 平行政界<br />
 <strong>机构:</strong> 独立研究者<br />
-<strong>Email:</strong> <a href="https://hello-the-world.com/2025/12/15/hello.the.free.world@gmail.com">hello.the.free.world@gmail.com</a><br />
-<strong>DOI:</strong>  <a href="https://doi.org/10.5281/zenodo.18205295">10.5281/zenodo.18205295</a></p>
+<strong>Email:</strong> <a href="mailto:hello.the.free.world@gmail.com">hello.the.free.world@gmail.com</a><br />
+<strong>DOI:</strong>  <a target="_blank" href="https://dx.doi.org/10.2139/ssrn.6054054">10.2139/ssrn.6054054</a></p>
 <p><strong>关键词:</strong> 邓小平变法、极权转型、“动员—发展—管制”统治模型、1989年后的政治重构、极权统治的可持续性、技术官僚式治理、风险管理型国家、去政治化、以管制为导向的稳定、法家理性（商鞅）</p>
 <h1 id="摘要"><strong>摘要</strong></h1>
 <p>本文以“邓小平变法”为核心概念，提出一个“动员—发展—管制”的阶段统治模型，重新解释中华人民共和国成立以来统治逻辑的结构性演化。文章认为，中共并非在不同历史阶段尝试不同政治模式，而是在不同条件下，以不同方式持续避免同一件事：将政治权利真正交给人民。1949—1989年的动员型统治依赖群众政治与意识形态动员，虽具短期动员能力，却因高度不稳定而不可持续，并在1989年被整体判定为高风险路径。正是在这一失败基础上，邓小平启动了一次具有制度设计意义的变法：不再尝试通过政治改革或再动员解决合法性问题，而是以发展作为纯工具性手段，系统性积累国家财政、技术与组织控制能力，并同步构建抵御外部干涉的结构性条件，为最终转向全面管制创造前提。在这一变法框架下，江泽民、胡锦涛与习近平并非路线更替的代表，而是被阶段化配置的执行者，分别完成发展展开、管制奠基与管制闭环的历史任务。由此，邓小平变法并非通向开放的改革，而是一场在改革失败之后完成的统治重构，其结果是一个以风险控制和技术治理为核心、以稳定本身为目的的管制型稳态。</p>
