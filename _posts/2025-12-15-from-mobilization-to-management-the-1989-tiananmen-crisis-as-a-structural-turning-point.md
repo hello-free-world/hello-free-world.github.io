@@ -10,8 +10,8 @@ title_zh: 从动员到管理：六四的结构性转折意义
 <strong>Date:</strong> December 15, 2025<br />
 <strong>Author:</strong> Ping Political<br />
 <strong>Affiliation:</strong> Independent Researcher<br />
-<strong>Email:</strong> <a href="hello.the.free.world@gmail.com">hello.the.free.world@gmail.com</a><br />
-<strong>DOI:</strong> <a href="https://dx.doi.org/10.2139/ssrn.5921482">10.2139/ssrn.5921482</a></p>
+<strong>Email:</strong> <a href="mailto:hello.the.free.world@gmail.com">hello.the.free.world@gmail.com</a><br />
+<strong>DOI:</strong> <a target="_blank" href="https://dx.doi.org/10.2139/ssrn.5921482">10.2139/ssrn.5921482</a></p>
 
 <p><strong>Keywords:</strong> Governance Paradigms, Movement-Based Governance, Social Organizational Capacity, De-organizationalization, Risk Perception of Political Elites, State-Society Bargaining, Structural Limits of Democratization</p>
 <h1 id="abstract">Abstract</h1>
@@ -219,8 +219,8 @@ title_zh: 从动员到管理：六四的结构性转折意义
 <strong>日期:</strong> 2025年12月15日<br />
 <strong>作者:</strong> 平行政界  <br />
 <strong>机构:</strong> 独立研究者  <br />
-<strong>Email:</strong> <a href="hello.the.free.world@gmail.com">hello.the.free.world@gmail.com</a><br />
-<strong>DOI:</strong> <a href="https://dx.doi.org/10.2139/ssrn.5921482">10.2139/ssrn.5921482</a></p>
+<strong>Email:</strong> <a href="mailto:hello.the.free.world@gmail.com">hello.the.free.world@gmail.com</a><br />
+<strong>DOI:</strong> <a target="_blank" href="https://dx.doi.org/10.2139/ssrn.5921482">10.2139/ssrn.5921482</a></p>
 
 <p><strong>关键词:</strong> 治理范式、运动治国、社会组织能力、去组织化、政治精英的风险认知、国家与社会博弈、民主化的结构性限制</p>
 
